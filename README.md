@@ -48,7 +48,7 @@ Lesson 8: To move your head to newly created branch
  git checkout branchname
  ```
  
- Lesson 9: Now you want to upload all the things done here to a cloud server. Let's say push everthing to github
+ ### Lesson 9: Now you want to upload all the things done here to a cloud server. Let's say push everthing to github
  
  Step 1: create a repo in github
  > github.com
